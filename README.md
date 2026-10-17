@@ -1,1 +1,1 @@
-readme pertama
+readme kedua
