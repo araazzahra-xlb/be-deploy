@@ -2,4 +2,4 @@ import type { NextConfig } from "next";
 ara_baris_dua
 const nextConfig: NextConfig = {
 };
-bumi 
+papa_ungu 
