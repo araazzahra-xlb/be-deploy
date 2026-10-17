@@ -1,5 +1,5 @@
 import type { NextConfig } from "next";
-
+ara_baris_dua
 const nextConfig: NextConfig = {
 };
-zain
+ara
