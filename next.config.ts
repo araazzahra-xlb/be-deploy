@@ -1,7 +1,5 @@
 import type { NextConfig } from "next";
-
+ara_baris_dua
 const nextConfig: NextConfig = {
-  poweredByHeader: false
 };
-
-export default nextConfig;
+papa_ungu 
